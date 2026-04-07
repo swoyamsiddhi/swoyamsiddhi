@@ -1,0 +1,52 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#020818"/>
+  
+  <!-- outer border -->
+  <rect x="10" y="10" width="780" height="180" rx="4" fill="none" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.6"/>
+  <!-- top label bar -->
+  <rect x="10" y="10" width="780" height="32" rx="4" fill="#0d1f3c"/>
+  <rect x="10" y="32" width="780" height="10" fill="#0d1f3c"/>
+
+  <!-- corner accents -->
+  <line x1="10" y1="42" x2="40" y2="42" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.4"/>
+  <line x1="760" y1="42" x2="790" y2="42" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.4"/>
+
+  <!-- title -->
+  <text x="400" y="32" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#00f7ff" letter-spacing="4">SYSTEM.PROFILE  v1.0</text>
+
+  <!-- divider -->
+  <line x1="10" y1="42" x2="790" y2="42" stroke="#00f7ff" stroke-width="0.6" stroke-opacity="0.5"/>
+
+  <!-- row labels -->
+  <text x="36" y="68"  font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">OPERATOR</text>
+  <text x="36" y="90"  font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">CLASS</text>
+  <text x="36" y="112" font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">BASE</text>
+  <text x="36" y="134" font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">YEAR</text>
+  <text x="36" y="156" font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">MISSION</text>
+  <text x="36" y="178" font-family="'Courier New', monospace" font-size="12" fill="#00f7ff" letter-spacing="1">STATUS</text>
+
+  <!-- separators -->
+  <text x="140" y="68"  font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+  <text x="140" y="90"  font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+  <text x="140" y="112" font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+  <text x="140" y="134" font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+  <text x="140" y="156" font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+  <text x="140" y="178" font-family="'Courier New', monospace" font-size="12" fill="#3a6a8a">:</text>
+
+  <!-- values -->
+  <text x="158" y="68"  font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">Swoyam Siddhi Pattanayak</text>
+  <text x="158" y="90"  font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">Full Stack Engineer + AI/ML Specialist</text>
+  <text x="158" y="112" font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">SRM Institute of Science &amp; Technology, KTR</text>
+  <text x="158" y="134" font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">BTech CSE — Year 1</text>
+  <text x="158" y="156" font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">Google | Meta | NVIDIA — before Year 3 ends ★</text>
+  <circle cx="160" cy="173" r="5" fill="#00e87a"/>
+  <text x="172" y="178" font-family="'Courier New', monospace" font-size="12" fill="#e0f4ff">ONLINE — Always building, always optimizing</text>
+
+  <!-- right border tick marks -->
+  <line x1="789" y1="60"  x2="789" y2="78"  stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+  <line x1="789" y1="82"  x2="789" y2="100" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+  <line x1="789" y1="104" x2="789" y2="122" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+  <line x1="789" y1="126" x2="789" y2="144" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+  <line x1="789" y1="148" x2="789" y2="166" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+  <line x1="789" y1="170" x2="789" y2="188" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.3"/>
+</svg>

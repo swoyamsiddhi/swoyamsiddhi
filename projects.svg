@@ -1,0 +1,173 @@
+<svg width="800" height="560" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="560" fill="#020818"/>
+
+  <!-- ═══════════════════════════════ -->
+  <!--  PROJECT 1: MEDIVAULT          -->
+  <!-- ═══════════════════════════════ -->
+  <rect x="16" y="16" width="370" height="248" rx="6" fill="#0a1628" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.4"/>
+
+  <!-- top accent bar -->
+  <rect x="16" y="16" width="370" height="4" rx="3" fill="#00f7ff" fill-opacity="0.7"/>
+
+  <!-- tag pill -->
+  <rect x="28" y="30" width="68" height="16" rx="8" fill="#00f7ff" fill-opacity="0.12" stroke="#00f7ff" stroke-width="0.6" stroke-opacity="0.5"/>
+  <text x="62" y="41" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00f7ff" letter-spacing="1">AI / ML</text>
+
+  <!-- title -->
+  <text x="28" y="68" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#ffffff" letter-spacing="2">MEDIVAULT</text>
+  <text x="28" y="84" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a" letter-spacing="2">MEDICAL INTELLIGENCE PLATFORM</text>
+
+  <!-- divider -->
+  <line x1="28" y1="94" x2="372" y2="94" stroke="#00f7ff" stroke-width="0.4" stroke-opacity="0.2"/>
+
+  <!-- description -->
+  <text x="28" y="112" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">AI-powered medical report analyzer. Reads CBC</text>
+  <text x="28" y="127" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">reports, flags anomalies, generates urgency scores</text>
+  <text x="28" y="142" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">and plain-language health summaries for patients.</text>
+
+  <!-- urgency score widget (inspired by the screenshot) -->
+  <rect x="28" y="156" width="340" height="52" rx="4" fill="#020e1f" stroke="#00f7ff" stroke-width="0.5" stroke-opacity="0.25"/>
+  <text x="40" y="172" font-family="'Courier New', monospace" font-size="8" fill="#f7c873" letter-spacing="2">URGENCY SCORE</text>
+  <text x="40" y="196" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#f7c873">5.5</text>
+  <text x="82" y="196" font-family="'Courier New', monospace" font-size="14" fill="#3a6a8a">/10</text>
+  <!-- mini heartbeat line -->
+  <polyline points="240,185 252,185 256,170 262,200 268,172 274,185 310,185 314,178 318,192 322,185 355,185" fill="none" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.6"/>
+
+  <!-- tech stack pills -->
+  <rect x="28" y="220" width="60" height="16" rx="3" fill="#b060ff" fill-opacity="0.15" stroke="#b060ff" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="58" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#d09cff">TypeScript</text>
+
+  <rect x="96" y="220" width="52" height="16" rx="3" fill="#b060ff" fill-opacity="0.15" stroke="#b060ff" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="122" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#d09cff">Next.js</text>
+
+  <rect x="156" y="220" width="48" height="16" rx="3" fill="#b060ff" fill-opacity="0.15" stroke="#b060ff" stroke-width="0.5" stroke-opacity="0.5"/>
+  <text x="180" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#d09cff">AI/ML</text>
+
+  <!-- star + fork -->
+  <text x="28" y="254" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a">★  HACKATHON PROJECT  ·  1st REPO</text>
+  <text x="320" y="254" font-family="'Courier New', monospace" font-size="9" fill="#00f7ff" text-anchor="end">→ VIEW</text>
+
+  <!-- ═══════════════════════════════ -->
+  <!--  PROJECT 2: SRM CONNECT        -->
+  <!-- ═══════════════════════════════ -->
+  <rect x="414" y="16" width="370" height="248" rx="6" fill="#0a1628" stroke="#00e87a" stroke-width="0.8" stroke-opacity="0.4"/>
+  <rect x="414" y="16" width="370" height="4" rx="3" fill="#00e87a" fill-opacity="0.7"/>
+
+  <!-- tag -->
+  <rect x="426" y="30" width="82" height="16" rx="8" fill="#00e87a" fill-opacity="0.1" stroke="#00e87a" stroke-width="0.6" stroke-opacity="0.5"/>
+  <text x="467" y="41" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00e87a" letter-spacing="1">COMMUNITY</text>
+
+  <!-- title -->
+  <text x="426" y="68" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#ffffff" letter-spacing="2">SRM CONNECT</text>
+  <text x="426" y="84" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a" letter-spacing="2">CAMPUS SOCIAL PLATFORM</text>
+
+  <line x1="426" y1="94" x2="772" y2="94" stroke="#00e87a" stroke-width="0.4" stroke-opacity="0.2"/>
+
+  <!-- description -->
+  <text x="426" y="112" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">Campus community app for SRM students —</text>
+  <text x="426" y="127" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">discover hackathons, events &amp; seminars,</text>
+  <text x="426" y="142" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">join clubs, and connect with 1000+ peers.</text>
+
+  <!-- mini phone mockup -->
+  <rect x="426" y="154" width="340" height="54" rx="4" fill="#020e1f" stroke="#00e87a" stroke-width="0.5" stroke-opacity="0.25"/>
+  <!-- phone outline -->
+  <rect x="436" y="158" width="32" height="46" rx="5" fill="#1a2a3a" stroke="#3a6a8a" stroke-width="0.8"/>
+  <rect x="439" y="162" width="26" height="34" rx="2" fill="#0d1f3c"/>
+  <text x="452" y="173" text-anchor="middle" font-family="'Courier New', monospace" font-size="5" fill="#00e87a">COLLEGE</text>
+  <text x="452" y="180" text-anchor="middle" font-family="'Courier New', monospace" font-size="4" fill="#3a6a8a">EVENTS</text>
+  <rect x="441" y="183" width="22" height="8" rx="2" fill="#00e87a" fill-opacity="0.15"/>
+  <text x="452" y="189" text-anchor="middle" font-family="'Courier New', monospace" font-size="4" fill="#00e87a">Search...</text>
+  <!-- stats -->
+  <text x="480" y="172" font-family="'Courier New', monospace" font-size="9" fill="#00e87a" font-weight="bold">1,000+</text>
+  <text x="480" y="184" font-family="'Courier New', monospace" font-size="8" fill="#3a6a8a">Campus users</text>
+  <text x="560" y="172" font-family="'Courier New', monospace" font-size="9" fill="#00e87a" font-weight="bold">3</text>
+  <text x="560" y="184" font-family="'Courier New', monospace" font-size="8" fill="#3a6a8a">Event types</text>
+  <text x="620" y="172" font-family="'Courier New', monospace" font-size="9" fill="#00e87a" font-weight="bold">SRM KTR</text>
+  <text x="620" y="184" font-family="'Courier New', monospace" font-size="8" fill="#3a6a8a">Campus</text>
+  <text x="480" y="198" font-family="'Courier New', monospace" font-size="8" fill="#3a6a8a">Hackathons · Events · Seminars · Clubs</text>
+
+  <!-- stack -->
+  <rect x="426" y="220" width="60" height="16" rx="3" fill="#00e87a" fill-opacity="0.1" stroke="#00e87a" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="456" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00e87a">TypeScript</text>
+
+  <rect x="494" y="220" width="52" height="16" rx="3" fill="#00e87a" fill-opacity="0.1" stroke="#00e87a" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="520" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00e87a">React</text>
+
+  <rect x="554" y="220" width="58" height="16" rx="3" fill="#00e87a" fill-opacity="0.1" stroke="#00e87a" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="583" y="231" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00e87a">Tailwind</text>
+
+  <text x="426" y="254" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a">★  COMMUNITY PLATFORM  ·  SRM STUDENTS</text>
+  <text x="718" y="254" font-family="'Courier New', monospace" font-size="9" fill="#00e87a" text-anchor="end">→ VIEW</text>
+
+  <!-- ═══════════════════════════════ -->
+  <!--  PROJECT 3: SSP PORTFOLIO      -->
+  <!-- ═══════════════════════════════ -->
+  <rect x="16" y="280" width="768" height="262" rx="6" fill="#0a1628" stroke="#f7c873" stroke-width="0.8" stroke-opacity="0.4"/>
+  <rect x="16" y="280" width="768" height="4" rx="3" fill="#f7c873" fill-opacity="0.7"/>
+
+  <!-- tag -->
+  <rect x="28" y="294" width="68" height="16" rx="8" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.6" stroke-opacity="0.5"/>
+  <text x="62" y="305" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7c873" letter-spacing="1">PORTFOLIO</text>
+
+  <!-- FEATURED label -->
+  <rect x="680" y="294" width="88" height="16" rx="8" fill="#f7c873" fill-opacity="0.2" stroke="#f7c873" stroke-width="0.8" stroke-opacity="0.8"/>
+  <text x="724" y="305" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7c873" letter-spacing="1">★ FEATURED</text>
+
+  <!-- title -->
+  <text x="28" y="338" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#ffffff" letter-spacing="3">SSP · PERSONAL PORTFOLIO</text>
+  <text x="28" y="356" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a" letter-spacing="3">3D INTERACTIVE DEVELOPER PORTFOLIO · swoyamsiddhi.vercel.app</text>
+
+  <line x1="28" y1="365" x2="776" y2="365" stroke="#f7c873" stroke-width="0.4" stroke-opacity="0.2"/>
+
+  <!-- left: description -->
+  <text x="28" y="384" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">Immersive 3D developer portfolio built with cutting-edge web</text>
+  <text x="28" y="399" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">tech. Features scroll-driven animations, editorial typography,</text>
+  <text x="28" y="414" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">and a bold black-and-white aesthetic with 3D scene interactions.</text>
+  <text x="28" y="429" font-family="Arial, sans-serif" font-size="11" fill="#8ab4cc">Showcases projects, skills, and contact — live on Vercel.</text>
+
+  <!-- right: mini nav mockup inspired by screenshot -->
+  <rect x="440" y="374" width="330" height="60" rx="4" fill="#020e1f" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.25"/>
+  <!-- navbar sim -->
+  <text x="460" y="392" font-family="'Courier New', monospace" font-size="9" fill="#f7c873" letter-spacing="1">SSP ···</text>
+  <text x="510" y="392" font-family="'Courier New', monospace" font-size="8" fill="#3a6a8a">· HOME · ABOUT · PROJECTS · SKILLS · CONTACT ·</text>
+  <!-- headline sim -->
+  <text x="460" y="414" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#ffffff" letter-spacing="1">SWOYAM SIDDHI</text>
+  <text x="460" y="428" font-family="Georgia, serif" font-size="11" fill="#6a8aaa" letter-spacing="1">PATTANAYAK</text>
+
+  <!-- features row -->
+  <rect x="28" y="444" width="90" height="18" rx="3" fill="#f7c873" fill-opacity="0.08" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="73" y="456" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">3D Scenes</text>
+
+  <rect x="126" y="444" width="110" height="18" rx="3" fill="#f7c873" fill-opacity="0.08" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="181" y="456" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Scroll Animations</text>
+
+  <rect x="244" y="444" width="100" height="18" rx="3" fill="#f7c873" fill-opacity="0.08" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="294" y="456" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Editorial Design</text>
+
+  <rect x="352" y="444" width="70" height="18" rx="3" fill="#f7c873" fill-opacity="0.08" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="387" y="456" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Live Vercel</text>
+
+  <!-- stack -->
+  <text x="28" y="490" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a">STACK ›</text>
+
+  <rect x="76" y="478" width="52" height="16" rx="3" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="102" y="489" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Three.js</text>
+
+  <rect x="136" y="478" width="52" height="16" rx="3" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="162" y="489" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">TypeScript</text>
+
+  <rect x="196" y="478" width="52" height="16" rx="3" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="222" y="489" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Next.js</text>
+
+  <rect x="256" y="478" width="52" height="16" rx="3" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="282" y="489" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Tailwind</text>
+
+  <rect x="316" y="478" width="52" height="16" rx="3" fill="#f7c873" fill-opacity="0.1" stroke="#f7c873" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="342" y="489" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f7d890">Vercel</text>
+
+  <text x="720" y="490" font-family="'Courier New', monospace" font-size="9" fill="#f7c873" text-anchor="end">→ LIVE SITE</text>
+  <text x="776" y="490" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a" text-anchor="end">→ REPO</text>
+
+  <!-- bottom bar -->
+  <text x="28" y="526" font-family="'Courier New', monospace" font-size="9" fill="#3a6a8a">swoyamsiddhi.vercel.app  ·  ★ FEATURED PROJECT  ·  3D INTERACTIVE  ·  LIVE</text>
+</svg>

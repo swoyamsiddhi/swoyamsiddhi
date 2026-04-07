@@ -1,0 +1,51 @@
+<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="130" fill="#020818"/>
+
+  <!-- horizontal timeline line -->
+  <line x1="60" y1="55" x2="740" y2="55" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.25"/>
+
+  <!-- NODE 1: 2024 - DONE -->
+  <circle cx="100" cy="55" r="9" fill="#020818" stroke="#00f7ff" stroke-width="2"/>
+  <circle cx="100" cy="55" r="4" fill="#00f7ff"/>
+  <text x="100" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2024</text>
+  <text x="100" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#6ec6ff">SRM KTR</text>
+  <text x="100" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">Foundations</text>
+
+  <!-- NODE 2: NOW - ACTIVE (pulsing via animation) -->
+  <circle cx="250" cy="55" r="11" fill="#b060ff" fill-opacity="0.18" stroke="#b060ff" stroke-width="2">
+    <animate attributeName="r" values="11;14;11" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.18;0.05;0.18" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="55" r="5" fill="#b060ff"/>
+  <rect x="218" y="16" width="64" height="18" rx="3" fill="#b060ff" fill-opacity="0.15" stroke="#b060ff" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="250" y="28" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#d09cff" letter-spacing="1">NOW ►</text>
+  <text x="250" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#d09cff">Full Stack</text>
+  <text x="250" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ AI/ML</text>
+
+  <!-- NODE 3: 2025 -->
+  <circle cx="420" cy="55" r="9" fill="#020818" stroke="#2a4a6a" stroke-width="1.5"/>
+  <text x="420" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2025</text>
+  <text x="420" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#4a7a9a">Internship</text>
+  <text x="420" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ Adv. C++</text>
+
+  <!-- NODE 4: 2026 -->
+  <circle cx="590" cy="55" r="9" fill="#020818" stroke="#2a4a6a" stroke-width="1.5"/>
+  <text x="590" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2026</text>
+  <text x="590" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#4a7a9a">Open Source</text>
+  <text x="590" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ AI Research</text>
+
+  <!-- NODE 5: 2027 GOAL -->
+  <polygon points="740,43 753,62 727,62" fill="#f7c873" fill-opacity="0.15" stroke="#f7c873" stroke-width="1.5"/>
+  <circle cx="740" cy="55" r="5" fill="#f7c873">
+    <animate attributeName="fill-opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="740" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7c873" letter-spacing="1">2027 ✦</text>
+  <text x="740" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7d890">Google</text>
+  <text x="740" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7c873">Meta / NVIDIA</text>
+
+  <!-- segment lines between nodes -->
+  <line x1="109" y1="55" x2="239" y2="55" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.5"/>
+  <line x1="261" y1="55" x2="411" y2="55" stroke="#2a4a6a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="429" y1="55" x2="581" y2="55" stroke="#2a4a6a" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="599" y1="55" x2="727" y2="55" stroke="#f7c873" stroke-width="1" stroke-dasharray="4,3" stroke-opacity="0.4"/>
+</svg>
