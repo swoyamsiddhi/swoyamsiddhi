@@ -28,7 +28,7 @@
 <!--  SOCIAL BADGES (neo-brutalist colors)  -->
 <!-- ═══════════════════════════════════════ -->
 
-<a href="https://swoyamsiddhi.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=000" /></a>
+<a href="https://swoyamcodes.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=000" /></a>
 <a href="https://linkedin.com/in/swoyam-siddhi-pattanayak-b4b523391"><img src="https://img.shields.io/badge/LINKEDIN-FFD93D?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
 <a href="https://x.com/siddhi_swoyam"><img src="https://img.shields.io/badge/X__FEED-C4B5FD?style=for-the-badge&logo=x&logoColor=000" /></a>
 <a href="https://instagram.com/swoyamsid"><img src="https://img.shields.io/badge/INSTAGRAM-FF6B6B?style=for-the-badge&logo=instagram&logoColor=000" /></a>
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/MEDIVAULT-GitHub_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=000" />
 </a>
 &nbsp;
-<a href="https://swoyamsiddhi.vercel.app/">
+<a href="https://swoyamcodes.vercel.app/">
   <img src="https://img.shields.io/badge/SWOYAMCODES-Live_Site-FFD93D?style=for-the-badge&logo=vercel&logoColor=000" />
 </a>
 
