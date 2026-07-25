@@ -50,14 +50,6 @@
 
 ---
 
-## ★ MY JOURNEY
-
-<div align="center">
-<img width="100%" src="./timeline.svg" />
-</div>
-
----
-
 ## ★ TECH STACK
 
 <div align="center">
