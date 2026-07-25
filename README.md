@@ -20,7 +20,7 @@
 <!--  TYPING SVG                            -->
 <!-- ═══════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&height=35&lines=BUILDING+THINGS+THAT+MATTER+★;FULL+STACK+%2B+AI%2FML+ENGINEER;ALWAYS+SHIPPING+🚀;CODE.+BUILD.+REPEAT." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=BUILDING+THINGS+THAT+MATTER+%E2%98%85;FULL+STACK+%2B+AI%2FML+ENGINEER;ALWAYS+SHIPPING+%F0%9F%9A%80;CODE.+BUILD.+REPEAT." alt="Typing SVG" />
 
 <br/><br/>
 
