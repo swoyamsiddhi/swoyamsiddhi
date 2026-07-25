@@ -141,9 +141,19 @@
 ## ★ CONTRIBUTION GRID
 
 <div align="center">
+
 <a href="https://github.com/swoyamsiddhi">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swoyamsiddhi&bg_color=FFFDF5&color=000000&line=FF6B6B&point=000000&area=true&area_color=FFD93D&hide_border=false&custom_title=★+COMMIT+ACTIVITY" />
 </a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoyamsiddhi/swoyamsiddhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swoyamsiddhi/swoyamsiddhi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swoyamsiddhi/swoyamsiddhi/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
