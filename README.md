@@ -154,6 +154,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swoyamsiddhi/swoyamsiddhi/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/><br/>
+
+<img alt="github 3d contribution tower" src="./profile-3d-contrib/neo-brutalism.svg">
+
+
 </div>
 
 ---
