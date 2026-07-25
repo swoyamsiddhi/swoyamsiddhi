@@ -1,31 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,40:0d1f3c,100:020818&height=230&section=header&text=SWOYAM%20SIDDHI&fontSize=58&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=◈%20Full%20Stack%20Engineer%20·%20AI%2FML%20Builder%20·%20FAANG%20Bound%20◈&descFontSize=15&descFontColor=6ec6ff&descAlignY=62&stroke=00f7ff&strokeWidth=1" />
+<!-- ═══════════════════════════════════════ -->
+<!--  NEO-BRUTALIST HEADER BANNER           -->
+<!-- ═══════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1100&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E_+initializing+swoyam.exe+...;%3E_+full_stack+%2B+ai_ml+ONLINE+%E2%9C%93;%3E_+target+%3A+Google+%7C+Meta+%7C+NVIDIA;%3E_+ETA+%3A+Year+3+%E2%AC%A1;%3E_+STATUS+%3A+ALWAYS+BUILDING" alt="Typing SVG" />
+<img width="100%" src="./header-banner.svg" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════ -->
+<!--  PROFILE PICTURE                       -->
+<!-- ═══════════════════════════════════════ -->
+
+<img src="./profile.png" width="160" alt="swoyamsiddhi" />
 
 <br/><br/>
 
-<a href="https://swoyamsiddhi.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00f7ff?style=for-the-badge&logo=vercel&logoColor=020818&labelColor=0d1f3c" /></a>
-<a href="https://linkedin.com/in/swoyam-siddhi-pattanayak-b4b523391"><img src="https://img.shields.io/badge/LINKEDIN-00f7ff?style=for-the-badge&logo=linkedin&logoColor=020818&labelColor=0d1f3c" /></a>
-<a href="https://x.com/siddhi_swoyam"><img src="https://img.shields.io/badge/X__FEED-00f7ff?style=for-the-badge&logo=x&logoColor=020818&labelColor=0d1f3c" /></a>
-<a href="https://instagram.com/swoyamsid"><img src="https://img.shields.io/badge/INSTAGRAM-00f7ff?style=for-the-badge&logo=instagram&logoColor=020818&labelColor=0d1f3c" /></a>
-<a href="mailto:swoyamsiddhipattanayak@gmail.com"><img src="https://img.shields.io/badge/GMAIL-00f7ff?style=for-the-badge&logo=gmail&logoColor=020818&labelColor=0d1f3c" /></a>
+<!-- ═══════════════════════════════════════ -->
+<!--  TYPING SVG                            -->
+<!-- ═══════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&height=35&lines=BUILDING+THINGS+THAT+MATTER+★;FULL+STACK+%2B+AI%2FML+ENGINEER;ALWAYS+SHIPPING+🚀;CODE.+BUILD.+REPEAT." alt="Typing SVG" />
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=swoyamsiddhi&label=PROFILE+SCANS&color=00f7ff&style=flat-square&labelColor=020818" />
+
+<!-- ═══════════════════════════════════════ -->
+<!--  SOCIAL BADGES (neo-brutalist colors)  -->
+<!-- ═══════════════════════════════════════ -->
+
+<a href="https://swoyamsiddhi.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=000" /></a>
+<a href="https://linkedin.com/in/swoyam-siddhi-pattanayak-b4b523391"><img src="https://img.shields.io/badge/LINKEDIN-FFD93D?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
+<a href="https://x.com/siddhi_swoyam"><img src="https://img.shields.io/badge/X__FEED-C4B5FD?style=for-the-badge&logo=x&logoColor=000" /></a>
+<a href="https://instagram.com/swoyamsid"><img src="https://img.shields.io/badge/INSTAGRAM-FF6B6B?style=for-the-badge&logo=instagram&logoColor=000" /></a>
+<a href="mailto:swoyamsiddhipattanayak@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFD93D?style=for-the-badge&logo=gmail&logoColor=000" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=swoyamsiddhi&label=PROFILE+VIEWS&color=FF6B6B&style=flat-square&labelColor=000000" />
 
 </div>
 
 ---
 
-<div align="center">
-<img width="100%" src="./system-profile.svg" />
-</div>
-
----
-
-## ◈ ABOUT.ME
+## ★ ABOUT ME
 
 <div align="center">
 <img width="100%" src="./about.svg" />
@@ -33,7 +50,7 @@
 
 ---
 
-## ◈ MISSION.TIMELINE
+## ★ MY JOURNEY
 
 <div align="center">
 <img width="100%" src="./timeline.svg" />
@@ -41,124 +58,120 @@
 
 ---
 
-## ◈ TECH.STACK
+## ★ TECH STACK
 
 <div align="center">
 
-**`// LANGUAGES`**
+**`★ LANGUAGES`**
 
-![C++](https://img.shields.io/badge/C++-00f7ff?style=for-the-badge&logo=cplusplus&logoColor=020818&labelColor=0d1f3c)
-![Python](https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=020818&labelColor=0d1f3c)
-![TypeScript](https://img.shields.io/badge/TypeScript-00f7ff?style=for-the-badge&logo=typescript&logoColor=020818&labelColor=0d1f3c)
-![JavaScript](https://img.shields.io/badge/JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=020818&labelColor=0d1f3c)
+![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=000)
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B6B?style=for-the-badge&logo=typescript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B6B?style=for-the-badge&logo=javascript&logoColor=000)
 
-**`// FRONTEND ARSENAL`**
+**`★ FRONTEND ARSENAL`**
 
-![Next.js](https://img.shields.io/badge/Next.js-b060ff?style=for-the-badge&logo=next.js&logoColor=fff&labelColor=0a0820)
-![React](https://img.shields.io/badge/React-b060ff?style=for-the-badge&logo=react&logoColor=fff&labelColor=0a0820)
-![React Native](https://img.shields.io/badge/React_Native-b060ff?style=for-the-badge&logo=react&logoColor=fff&labelColor=0a0820)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-b060ff?style=for-the-badge&logo=tailwind-css&logoColor=fff&labelColor=0a0820)
-![Vite](https://img.shields.io/badge/Vite-b060ff?style=for-the-badge&logo=vite&logoColor=fff&labelColor=0a0820)
+![Next.js](https://img.shields.io/badge/Next.js-FFD93D?style=for-the-badge&logo=next.js&logoColor=000)
+![React](https://img.shields.io/badge/React-FFD93D?style=for-the-badge&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-FFD93D?style=for-the-badge&logo=react&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFD93D?style=for-the-badge&logo=tailwind-css&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-FFD93D?style=for-the-badge&logo=vite&logoColor=000)
 
-**`// BACKEND CORE`**
+**`★ BACKEND CORE`**
 
-![Node.js](https://img.shields.io/badge/Node.js-00e87a?style=for-the-badge&logo=node.js&logoColor=020818&labelColor=041a0a)
-![Express.js](https://img.shields.io/badge/Express.js-00e87a?style=for-the-badge&logo=express&logoColor=020818&labelColor=041a0a)
-![FastAPI](https://img.shields.io/badge/FastAPI-00e87a?style=for-the-badge&logo=fastapi&logoColor=020818&labelColor=041a0a)
+![Node.js](https://img.shields.io/badge/Node.js-C4B5FD?style=for-the-badge&logo=node.js&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-C4B5FD?style=for-the-badge&logo=express&logoColor=000)
+![FastAPI](https://img.shields.io/badge/FastAPI-C4B5FD?style=for-the-badge&logo=fastapi&logoColor=000)
 
-**`// AI / ML SYSTEMS`**
+**`★ AI / ML SYSTEMS`**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f7c873?style=for-the-badge&logo=TensorFlow&logoColor=020818&labelColor=1a1000)
-![PyTorch](https://img.shields.io/badge/PyTorch-f7c873?style=for-the-badge&logo=PyTorch&logoColor=020818&labelColor=1a1000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-f7c873?style=for-the-badge&logo=scikit-learn&logoColor=020818&labelColor=1a1000)
-![Keras](https://img.shields.io/badge/Keras-f7c873?style=for-the-badge&logo=Keras&logoColor=020818&labelColor=1a1000)
-![NumPy](https://img.shields.io/badge/NumPy-f7c873?style=for-the-badge&logo=numpy&logoColor=020818&labelColor=1a1000)
-![Pandas](https://img.shields.io/badge/Pandas-f7c873?style=for-the-badge&logo=pandas&logoColor=020818&labelColor=1a1000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6B6B)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=FF6B6B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF6B6B)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=FF6B6B)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF6B6B)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF6B6B)
 
-**`// CLOUD & INFRASTRUCTURE`**
+**`★ CLOUD & INFRASTRUCTURE`**
 
-![AWS](https://img.shields.io/badge/AWS-ff4c4c?style=for-the-badge&logo=amazon-aws&logoColor=fff&labelColor=1a0000)
-![GCP](https://img.shields.io/badge/GCP-ff4c4c?style=for-the-badge&logo=google-cloud&logoColor=fff&labelColor=1a0000)
-![Azure](https://img.shields.io/badge/Azure-ff4c4c?style=for-the-badge&logo=microsoftazure&logoColor=fff&labelColor=1a0000)
-![Firebase](https://img.shields.io/badge/Firebase-ff4c4c?style=for-the-badge&logo=Firebase&logoColor=fff&labelColor=1a0000)
-![Supabase](https://img.shields.io/badge/Supabase-ff4c4c?style=for-the-badge&logo=supabase&logoColor=fff&labelColor=1a0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff4c4c?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=1a0000)
-![MongoDB](https://img.shields.io/badge/MongoDB-ff4c4c?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1a0000)
-![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-ff4c4c?style=for-the-badge&logo=nvidia&logoColor=fff&labelColor=1a0000)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FFD93D)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=FFD93D)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=FFD93D)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFD93D)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFD93D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD93D)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD93D)
+![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=FFD93D)
 
 </div>
 
 ---
 
-## ◈ ACTIVE.PROJECTS
+## ★ PROJECTS
 
 <div align="center">
 
-<!-- Self-hosted SVG — guaranteed to render, no external dependency -->
 <img width="100%" src="./projects.svg" />
 
 <br/><br/>
 
-<!-- Quick-link buttons to actual repos / live site -->
 <a href="https://github.com/swoyamsiddhi/MEDIVAULT1">
-  <img src="https://img.shields.io/badge/MEDIVAULT-GitHub_Repo-00f7ff?style=for-the-badge&logo=github&logoColor=020818&labelColor=0d1f3c" />
+  <img src="https://img.shields.io/badge/MEDIVAULT-GitHub_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=000" />
 </a>
 &nbsp;
 <a href="https://swoyamsiddhi.vercel.app/">
-  <img src="https://img.shields.io/badge/SSP_PORTFOLIO-Live_Site-f7c873?style=for-the-badge&logo=vercel&logoColor=020818&labelColor=1a1000" />
-</a>
-&nbsp;
-<a href="https://github.com/swoyamsiddhi/Nexus">
-  <img src="https://img.shields.io/badge/SRM_CONNECT-GitHub_Repo-00e87a?style=for-the-badge&logo=github&logoColor=020818&labelColor=041a0a" />
+  <img src="https://img.shields.io/badge/SWOYAMCODES-Live_Site-FFD93D?style=for-the-badge&logo=vercel&logoColor=000" />
 </a>
 
 </div>
 
 ---
 
-## ◈ GITHUB.STATS
+## ★ GITHUB STATS
 
 <div align="center">
 
 <a href="https://github.com/swoyamsiddhi">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=swoyamsiddhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00f7ff&text_color=6ec6ff&icon_color=b060ff&ring_color=00f7ff&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoyamsiddhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00f7ff&text_color=6ec6ff&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=swoyamsiddhi&show_icons=true&hide_border=false&bg_color=FFFDF5&title_color=000000&text_color=000000&icon_color=FF6B6B&ring_color=000000&border_color=000000&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoyamsiddhi&layout=compact&hide_border=false&bg_color=FFFDF5&title_color=000000&text_color=000000&border_color=000000&langs_count=8" />
 </a>
 
 <br/>
 
 <a href="https://github.com/swoyamsiddhi">
-<img width="60%" src="https://streak-stats.demolab.com/?user=swoyamsiddhi&theme=tokyonight&hide_border=true&background=020818&ring=00f7ff&fire=b060ff&currStreakLabel=00f7ff&sideLabels=6ec6ff&sideNums=00f7ff&currStreakNum=ffffff&dates=6ec6ff" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=swoyamsiddhi&hide_border=false&background=FFFDF5&ring=000000&fire=FF6B6B&currStreakLabel=000000&sideLabels=000000&sideNums=000000&currStreakNum=FF6B6B&dates=000000&border=000000&stroke=000000" />
 </a>
 
 </div>
 
 ---
 
-## ◈ CONTRIBUTION.GRID
+## ★ CONTRIBUTION GRID
 
 <div align="center">
 <a href="https://github.com/swoyamsiddhi">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swoyamsiddhi&bg_color=020818&color=00f7ff&line=b060ff&point=ffffff&area=true&hide_border=true&custom_title=COMMIT+ACTIVITY" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swoyamsiddhi&bg_color=FFFDF5&color=000000&line=FF6B6B&point=000000&area=true&area_color=FFD93D&hide_border=false&custom_title=★+COMMIT+ACTIVITY" />
 </a>
 </div>
 
 ---
 
-## ◈ SIGNAL.BROADCAST
-
 <div align="center">
 
 <br/>
 
-*`> "The best way to predict the future is to build it."`*
+**★ ★ ★**
+
+*`"THE BEST WAY TO PREDICT THE FUTURE IS TO BUILD IT."`*
 
 <br/>
 
-![Open to collab](https://img.shields.io/badge/OPEN_TO_COLLAB-FULLSTACK_%7C_AI%2FML_%7C_SYSTEMS_%7C_OSS-00f7ff?style=for-the-badge&labelColor=0d1f3c)
+![Open to collab](https://img.shields.io/badge/OPEN_TO_COLLAB-FULLSTACK_%7C_AI%2FML_%7C_SYSTEMS_%7C_OSS-FF6B6B?style=for-the-badge&labelColor=000000)
+
+<br/>
+
+**`github.com/swoyamsiddhi`**
 
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,60:0d1f3c,100:020818&height=110&section=footer&text=◈+swoyamsiddhi+◈&fontSize=20&fontColor=00f7ff&animation=fadeIn&fontAlignY=55&desc=github.com%2Fswoyamsiddhi&descFontSize=12&descFontColor=3a6a8a&descAlignY=80" />
 
 </div>

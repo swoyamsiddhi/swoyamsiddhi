@@ -1,0 +1,75 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;900');
+  </style>
+
+  <defs>
+    <!-- Grid texture -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#000" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+    <!-- Halftone dots -->
+    <pattern id="halftone" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="0.8" fill="#000" opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <!-- ═══ BACKGROUND ═══ -->
+  <rect width="800" height="280" fill="#FFFDF5"/>
+  <rect width="800" height="280" fill="url(#grid)"/>
+  <rect width="800" height="280" fill="url(#halftone)"/>
+
+  <!-- ═══ THICK OUTER BORDER ═══ -->
+  <rect x="2" y="2" width="796" height="276" fill="none" stroke="#000" stroke-width="4"/>
+
+  <!-- ═══ DECORATIVE: Violet circle (top-left) ═══ -->
+  <circle cx="85" cy="60" r="22" fill="#000" opacity="0.9" transform="translate(5, 5)"/>
+  <circle cx="85" cy="60" r="22" fill="#C4B5FD" stroke="#000" stroke-width="3"/>
+
+  <!-- ═══ DECORATIVE: Yellow rotated square (top-right) ═══ -->
+  <g transform="translate(710, 48) rotate(15)">
+    <rect x="0" y="0" width="30" height="30" fill="#000" transform="translate(4, 4)"/>
+    <rect x="0" y="0" width="30" height="30" fill="#FFD93D" stroke="#000" stroke-width="3"/>
+  </g>
+
+  <!-- ═══ DECORATIVE: Red rectangle (bottom-right) ═══ -->
+  <g transform="translate(685, 232) rotate(-5)">
+    <rect x="0" y="0" width="42" height="24" fill="#000" transform="translate(4, 4)"/>
+    <rect x="0" y="0" width="42" height="24" fill="#FF6B6B" stroke="#000" stroke-width="3"/>
+  </g>
+
+  <!-- ═══ DECORATIVE: Star (left of subtitle) ═══ -->
+  <text x="138" y="242" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="22" fill="#FF6B6B" stroke="#000" stroke-width="1">★</text>
+
+  <!-- ═══ DECORATIVE: Small violet dot (bottom-left) ═══ -->
+  <circle cx="50" cy="250" r="8" fill="#C4B5FD" stroke="#000" stroke-width="2"/>
+
+  <!-- ═══ MAIN TEXT: "SWOYAM" (outlined / text-stroke effect) ═══ -->
+  <text x="400" y="118" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', 'Impact', sans-serif"
+        font-size="78" font-weight="900"
+        fill="none" stroke="#000" stroke-width="2.5"
+        letter-spacing="-2">SWOYAM</text>
+
+  <!-- ═══ MAIN TEXT: "SIDDHI" (solid black) ═══ -->
+  <text x="400" y="185" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', 'Impact', sans-serif"
+        font-size="78" font-weight="900"
+        fill="#000"
+        letter-spacing="-2">SIDDHI</text>
+
+  <!-- ═══ SUBTITLE BAR (yellow, rotated, hard shadow) ═══ -->
+  <g transform="translate(400, 232) rotate(-1.5)">
+    <!-- Shadow -->
+    <rect x="-195" y="-17" width="390" height="38" fill="#000" transform="translate(6, 6)"/>
+    <!-- Bar -->
+    <rect x="-195" y="-17" width="390" height="38" fill="#FFD93D" stroke="#000" stroke-width="4"/>
+    <!-- Text -->
+    <text x="0" y="7" text-anchor="middle"
+          font-family="'Space Grotesk', 'Arial Black', sans-serif"
+          font-size="13" font-weight="700"
+          fill="#000" letter-spacing="3">FULL STACK ENGINEER · AI/ML BUILDER</text>
+  </g>
+</svg>

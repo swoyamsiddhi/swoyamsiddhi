@@ -1,51 +1,105 @@
-<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="130" fill="#020818"/>
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;900');
+  </style>
 
-  <!-- horizontal timeline line -->
-  <line x1="60" y1="55" x2="740" y2="55" stroke="#00f7ff" stroke-width="0.8" stroke-opacity="0.25"/>
+  <defs>
+    <pattern id="halftone" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.8" fill="#000" opacity="0.04"/>
+    </pattern>
+  </defs>
 
-  <!-- NODE 1: 2024 - DONE -->
-  <circle cx="100" cy="55" r="9" fill="#020818" stroke="#00f7ff" stroke-width="2"/>
-  <circle cx="100" cy="55" r="4" fill="#00f7ff"/>
-  <text x="100" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2024</text>
-  <text x="100" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#6ec6ff">SRM KTR</text>
-  <text x="100" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">Foundations</text>
+  <!-- ═══ BACKGROUND ═══ -->
+  <rect width="800" height="160" fill="#FFFDF5"/>
+  <rect width="800" height="160" fill="url(#halftone)"/>
 
-  <!-- NODE 2: NOW - ACTIVE (pulsing via animation) -->
-  <circle cx="250" cy="55" r="11" fill="#b060ff" fill-opacity="0.18" stroke="#b060ff" stroke-width="2">
-    <animate attributeName="r" values="11;14;11" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="0.18;0.05;0.18" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="55" r="5" fill="#b060ff"/>
-  <rect x="218" y="16" width="64" height="18" rx="3" fill="#b060ff" fill-opacity="0.15" stroke="#b060ff" stroke-width="0.8" stroke-opacity="0.6"/>
-  <text x="250" y="28" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#d09cff" letter-spacing="1">NOW ►</text>
-  <text x="250" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#d09cff">Full Stack</text>
-  <text x="250" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ AI/ML</text>
+  <!-- ═══ OUTER BORDER ═══ -->
+  <rect x="2" y="2" width="796" height="156" fill="none" stroke="#000" stroke-width="4"/>
 
-  <!-- NODE 3: 2025 -->
-  <circle cx="420" cy="55" r="9" fill="#020818" stroke="#2a4a6a" stroke-width="1.5"/>
-  <text x="420" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2025</text>
-  <text x="420" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#4a7a9a">Internship</text>
-  <text x="420" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ Adv. C++</text>
+  <!-- ═══ THICK TIMELINE LINE ═══ -->
+  <line x1="80" y1="72" x2="620" y2="72" stroke="#000" stroke-width="4"/>
 
-  <!-- NODE 4: 2026 -->
-  <circle cx="590" cy="55" r="9" fill="#020818" stroke="#2a4a6a" stroke-width="1.5"/>
-  <text x="590" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">2026</text>
-  <text x="590" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#4a7a9a">Open Source</text>
-  <text x="590" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#3a6a8a">+ AI Research</text>
+  <!-- ═══ NODE 1: 2024 (completed — violet) ═══ -->
+  <!-- Shadow -->
+  <rect x="100" y="49" width="66" height="50" fill="#000"/>
+  <!-- Card -->
+  <rect x="96" y="45" width="66" height="50" fill="#C4B5FD" stroke="#000" stroke-width="3"/>
+  <text x="129" y="65" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', sans-serif"
+        font-size="15" font-weight="900" fill="#000">2024</text>
+  <text x="129" y="80" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="7" font-weight="700" fill="#000"
+        letter-spacing="1.5">FOUNDATIONS</text>
+  <text x="152" y="58" text-anchor="middle"
+        font-family="'Space Grotesk', sans-serif"
+        font-size="10" font-weight="700" fill="#000">✓</text>
+  <!-- Label below -->
+  <text x="129" y="115" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="10" font-weight="700" fill="#000">SRM KTR</text>
 
-  <!-- NODE 5: 2027 GOAL -->
-  <polygon points="740,43 753,62 727,62" fill="#f7c873" fill-opacity="0.15" stroke="#f7c873" stroke-width="1.5"/>
-  <circle cx="740" cy="55" r="5" fill="#f7c873">
-    <animate attributeName="fill-opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="740" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7c873" letter-spacing="1">2027 ✦</text>
-  <text x="740" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7d890">Google</text>
-  <text x="740" y="92" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#f7c873">Meta / NVIDIA</text>
+  <!-- ═══ NODE 2: 2025 (completed — yellow) ═══ -->
+  <!-- Shadow -->
+  <rect x="308" y="49" width="66" height="50" fill="#000"/>
+  <!-- Card -->
+  <rect x="304" y="45" width="66" height="50" fill="#FFD93D" stroke="#000" stroke-width="3"/>
+  <text x="337" y="65" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', sans-serif"
+        font-size="15" font-weight="900" fill="#000">2025</text>
+  <text x="337" y="80" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="7" font-weight="700" fill="#000"
+        letter-spacing="1.5">FULL STACK</text>
+  <text x="360" y="58" text-anchor="middle"
+        font-family="'Space Grotesk', sans-serif"
+        font-size="10" font-weight="700" fill="#000">✓</text>
+  <!-- Label below -->
+  <text x="337" y="115" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="10" font-weight="700" fill="#000">+ AI/ML</text>
 
-  <!-- segment lines between nodes -->
-  <line x1="109" y1="55" x2="239" y2="55" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.5"/>
-  <line x1="261" y1="55" x2="411" y2="55" stroke="#2a4a6a" stroke-width="1" stroke-dasharray="4,3"/>
-  <line x1="429" y1="55" x2="581" y2="55" stroke="#2a4a6a" stroke-width="1" stroke-dasharray="4,3"/>
-  <line x1="599" y1="55" x2="727" y2="55" stroke="#f7c873" stroke-width="1" stroke-dasharray="4,3" stroke-opacity="0.4"/>
+  <!-- ═══ NODE 3: NOW / 2026 (active — red, larger, pulsing) ═══ -->
+  <!-- Pulsing glow behind card -->
+  <rect x="505" y="34" width="82" height="68" fill="#FF6B6B" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.05;0.15" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Shadow (bigger) -->
+  <rect x="516" y="42" width="78" height="62" fill="#000"/>
+  <!-- Card -->
+  <rect x="510" y="36" width="78" height="62" fill="#FF6B6B" stroke="#000" stroke-width="4"/>
+  <text x="549" y="55" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', sans-serif"
+        font-size="9" font-weight="900" fill="#000"
+        letter-spacing="2">NOW ►</text>
+  <text x="549" y="72" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial Black', sans-serif"
+        font-size="16" font-weight="900" fill="#000">2026</text>
+  <text x="549" y="88" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="7" font-weight="700" fill="#000"
+        letter-spacing="1">AI RESEARCH</text>
+  <!-- Label below -->
+  <text x="549" y="118" text-anchor="middle"
+        font-family="'Space Grotesk', 'Arial', sans-serif"
+        font-size="10" font-weight="700" fill="#000">+ OPEN SOURCE</text>
+
+  <!-- ═══ DECORATIVE: Spinning star ═══ -->
+  <g transform="translate(640, 52)">
+    <text text-anchor="middle" dominant-baseline="central"
+          font-size="18" fill="#FFD93D" stroke="#000" stroke-width="0.8">
+      ★
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- ═══ "TIMELINE" BADGE (rotated yellow sticker, bottom-right) ═══ -->
+  <g transform="translate(720, 132) rotate(3)">
+    <rect x="-48" y="-11" width="96" height="22" fill="#000" transform="translate(3, 3)"/>
+    <rect x="-48" y="-11" width="96" height="22" fill="#FFD93D" stroke="#000" stroke-width="2"/>
+    <text x="0" y="4" text-anchor="middle"
+          font-family="'Space Grotesk', 'Arial Black', sans-serif"
+          font-size="9" font-weight="900" fill="#000"
+          letter-spacing="2">★ TIMELINE</text>
+  </g>
 </svg>
