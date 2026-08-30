@@ -93,7 +93,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFD93D)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD93D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD93D)
-![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=FFD93D)
+![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=FFD93D)
 
 </div>
 
